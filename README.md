@@ -8,7 +8,7 @@ ByteBalance is a powerful and user-friendly Android budgeting app that helps use
  Option 1: Android Studio (Developers & Testers)
 
 1. Clone the repository:
-   git clone https://github.com/LeahAphane/ByteBalance.git
+   git@github.com:LeahAphane/OPSC.git
 
 2. Open the project in Android Studio.
 
